@@ -1,0 +1,53 @@
+.calculation-part{
+padding: 20px;
+}
+.img-card{
+    width: 180px;
+    height: 150px;
+    padding-top: 15px;
+}
+.card{
+    align-items: center;
+}
+.solution-area{
+    height: 450px;
+}
+input{
+    width: 40px;
+    border: solid 2px rgb(178, 176, 176);
+    border-radius: 3px;
+}
+
+
+/* .calculation-part {
+    border: solid 2px black;
+    float: left;
+    width: 900px;
+}
+
+.solution-part {
+    border: solid 2px black;
+    float: left;
+    width: 410px;
+    height: 700px;
+    text-align: center;
+}
+
+.types-Geometry {
+    border: solid 2px black;
+    display: grid;
+    flex-wrap: wrap;
+    align-content: center;
+    text-align: center;
+}
+
+
+
+
+input {
+    width: 40px;
+    text-align: center;
+    border: solid 2px black;
+    float: left;
+}
+ */
